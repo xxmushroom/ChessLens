@@ -1,4 +1,4 @@
-# ChessLens — Desktop edition
+# ChessLens - Desktop edition
 
 A Python chess-analysis workspace combining board recognition, manual position review, legal move tracking and Stockfish analysis.
 
