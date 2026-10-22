@@ -1,0 +1,14 @@
+Welcome to ChessLens
+
+1. Extract the entire ZIP to a folder.
+2. Double-click ChessLens.exe.
+3. Select board, capture it, review the pieces and confirm the position.
+
+Python, PowerShell and a separate Stockfish installation are not required in a complete Windows build.
+Keep ChessLens.exe, _internal and stockfish together. Do not move just the executable.
+Set side to move, orientation, castling and en-passant in Settings before capture.
+Use the Original capture tab to compare the detected pieces.
+Open the interactive report for continuation playback and board flipping.
+Stop / Escape stops tracking and practice clicks.
+Reports and logs are saved under %LOCALAPPDATA%\ChessLens.
+Use for local practice, post-game study, or games that permit engine assistance.

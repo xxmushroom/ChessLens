@@ -1,0 +1,17 @@
+.venv/
+.build-venv/
+__pycache__/
+*.pyc
+build/
+dist/
+models/
+*.spec
+.env
+.env.*
+!.env.example
+
+stockfish/*
+!stockfish/PLACE-STOCKFISH-HERE.txt
+
+screen_analysis.html
+chess_analysis.html
